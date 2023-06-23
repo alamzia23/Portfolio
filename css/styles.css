@@ -67,6 +67,7 @@ h3{
 }
 .footer-link{
     color: #11999E;
+    margin: 3px;
 }
 .skill-row{
     width: 50%;
@@ -96,7 +97,7 @@ hr{
     margin-bottom: 0%;
 }
 .contact-about{
-    width: 40%;
+    width: 65%;
     margin: 40px auto 40px;
     text-align: center;
 }
@@ -125,5 +126,12 @@ hr{
     background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
+  }
+  .project1{
+    width: 50%;
+    text-align: justify;
+    margin:40px auto 40px; 
+    padding: 40px;
+
   }
   
